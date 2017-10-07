@@ -1,0 +1,23 @@
+[lang="en-GB"] {
+	background: url("http://mdn.github.io/learning-area/css/introduction-to-css/css-selectors/en-GB.png") 5px center no-repeat;
+}
+
+[lang="de"] {
+	background: url("http://mdn.github.io/learning-area/css/introduction-to-css/css-selectors/de.png") 5px center no-repeat;
+}
+
+[lang="es"] {
+	background: url("http://mdn.github.io/learning-area/css/introduction-to-css/css-selectors/es.png") 5px center no-repeat;
+}
+
+[data-perf|=inc] {
+	background-color: rgba(0,255,0,0.7);
+}
+
+[data-perf*=same] {
+	background-color: rgba(0,0,255,0.5);
+}
+
+[data-perf^=dec] {
+	background-color: rgba(255,0,0,0.5);
+}

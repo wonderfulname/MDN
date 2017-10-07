@@ -1,0 +1,16 @@
+ul {
+	list-style-type: square;
+}
+
+html {
+	font-size: 10px;
+}
+
+ul li ,ol li {
+	font-size: 2rem;
+	line-height: 3rem;
+}
+
+ol li {
+	list-style-type: lower-alpha;
+}

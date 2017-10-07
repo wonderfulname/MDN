@@ -1,0 +1,24 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	width: 980px;
+	margin: 0 auto;
+}
+
+.wrapper {
+	padding-right: 20px;
+	margin: 0 auto;
+}
+
+.row {
+	clear: both;
+}
+
+.col {
+	float: left;
+	margin-left: 20px;
+	width: 60px;
+	background: rgb(255,150,150);
+}

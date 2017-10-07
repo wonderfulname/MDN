@@ -1,0 +1,10 @@
+p {
+	font-family: sans-serif;
+	padding: 20px;
+	background-color: yellow;
+	/*background-image: linear-gradient(to bottom,yellow,#dddd00 50%,orange);*/
+	background: url("https://mdn.mozillademos.org/files/13026/fire-ball-icon.png") 90%,url(http://cdn.aixifan.com/dotnet/artemis/u/cms/www/201707/28203025dm5vngoo.jpg) 20%,linear-gradient(to bottom,yellow,#dddd00 50%,orange);
+	background-repeat: no-repeat;
+	
+
+}
